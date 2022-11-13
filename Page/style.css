@@ -1,0 +1,54 @@
+.Main {
+    background-color: rgb(39, 37, 37);
+
+}
+
+.bigtitle {
+    /**    padding-left:15%;***/
+    padding-top: 1%;
+
+    color: green;
+    font-family: 'Trocchi', serif;
+    font-size: 500%;
+    font-weight: normal;
+    margin: auto;
+
+    /*line-height: 1.0em;*/
+}
+
+.Text {
+    text-align: middle;
+    font-size: 40px;
+    background-color: white;
+
+}
+
+.link {
+    padding-top: 2%;
+    margin-right: 1%;
+    display: inline-block;
+    font-size: 50px;
+
+
+}
+
+.Menu {
+
+    color: blue;
+    font-size: 50px;
+}
+
+.photo {
+
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 260px;
+}
+
+.Profil {
+
+    border-radius: 50%;
+}

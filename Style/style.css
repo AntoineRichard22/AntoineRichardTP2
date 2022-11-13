@@ -1,0 +1,45 @@
+.Main {
+    margin: auto;
+    background-color: rgb(39, 37, 37);
+
+
+}
+
+.bigtitle {
+    /**    padding-left:15%;***/
+    padding-top: 1%;
+
+    color: green;
+    font-family: 'Trocchi', serif;
+    font-size: 500%;
+    font-weight: normal;
+    margin: auto;
+
+    /*line-height: 1.0em;*/
+}
+
+.text {
+    align-items: center;
+    font-size: 50px;
+    background-color: blue;
+
+}
+
+.link {
+    padding-top: 2%;
+    margin-right: 1%;
+    display: inline-block;
+    font-size: 50px;
+
+
+}
+
+.avatar {
+    background-image: url("../images/avatar.png");
+    height: 247px;
+    width: 247px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 260px;
+}
